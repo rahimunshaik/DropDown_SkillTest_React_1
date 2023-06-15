@@ -1,3 +1,10 @@
+# DropDown Skill test-1
+to create this project 
+<!-- created react app:- -->
+create-react-app my-dropdown
+cd my-dropdown
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
